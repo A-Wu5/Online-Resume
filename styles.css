@@ -1,7 +1,9 @@
 .container {
   background-color: rgb(252, 252, 252);
   font-family: "Times New Roman", Times, serif;
-  height: 90vh;
+  height: 95vh;
+  padding: 0px 5px 0 5px;
+  margin: 0;
 }
 
 h1 {
