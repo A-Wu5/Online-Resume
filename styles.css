@@ -1,6 +1,7 @@
-body {
+.container {
   background-color: rgb(252, 252, 252);
   font-family: "Times New Roman", Times, serif;
+  height: 90vh;
 }
 
 h1 {
@@ -41,4 +42,15 @@ footer {
 .header-date {
   display: flex;
   justify-content: space-between;
+}
+
+@media (min-width: 800px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container {
+    max-width: 755px;
+  }
 }
