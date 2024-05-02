@@ -2,5 +2,4 @@
 
 Online version of my Resume
 
-To be updated soon.
-Last Updated: 04/26/2024
+Last Updated: 05/01/2024
